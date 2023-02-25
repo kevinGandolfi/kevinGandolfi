@@ -1,7 +1,7 @@
 # Hi everyone 👋
 
-I'm a developer from France who loves back-end. I was a student of `Le Wagon` (Web Development, Remote, Batch #1090), this was definitely a great experience, I met people from everywhere, new friends, and I learned so many new things in just 9 weeks. Now I just want to keep learning!
-I really like Ruby and Ruby on Rails, I also like JavaScript and Stimulus.
+I'm a developer from France who loves back-end. I was a student of `Le Wagon` (Web Development, Remote, Batch #1090), this was definitely a great experience, I met people from everywhere, new friends, and I learned so many new things in just 9 weeks.
+I'm now working as a .Net developer at Alten in Lille.
 
 ## Quick overview
 * GitHub stats:  
@@ -12,6 +12,8 @@ I have contributed to <a href="https://github.com/33clouds/prescriptool">Prescri
 
 ## My skills 📜
 
+- C#
+- .NET
 - Ruby
 - Ruby on Rails
 - Javascript
@@ -19,3 +21,6 @@ I have contributed to <a href="https://github.com/33clouds/prescriptool">Prescri
 - HTML
 - CSS
 - SQL
+- Git
+- Postman
+- Swagger
