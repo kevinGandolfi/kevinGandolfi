@@ -17,10 +17,12 @@ I have contributed to <a href="https://github.com/33clouds/prescriptool">Prescri
 - Ruby
 - Ruby on Rails
 - Javascript
+- NodeJS
 - Stimulus
 - HTML
 - CSS
-- SQL
+- SQL / PLSQL
 - Git
-- Postman
 - Swagger
+- Postman
+- Bruno
